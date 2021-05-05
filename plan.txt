@@ -44,4 +44,4 @@
         - dependancies socket.io
 [ ] Build project for deployment
 [ ] Deploy project on live server
-line#47-1
+line#47-2
